@@ -1,0 +1,11 @@
+,Suburb,Address,Type,Rooms,Landsize,BuildingArea,Price,Distance,Postcode,CouncilArea,Regionname
+3318,Heidelberg West,190 Southern Rd,h,3,1.0,,710000.0,9.4,3081.0,Banyule,Eastern Metropolitan
+10581,Bentleigh,4/463 South Rd,u,2,1.0,62.0,380000.0,11.4,3204.0,Glen Eira,Southern Metropolitan
+7710,Carnegie,2/13 Emily St,u,2,2.0,,603000.0,11.4,3163.0,Glen Eira,Southern Metropolitan
+8688,Toorak,32/637 Orrong Rd,t,3,3.0,131.0,1320000.0,4.6,3142.0,Stonnington,Southern Metropolitan
+11144,Northcote,40 Gadd St,h,4,5.0,,1955000.0,5.3,3070.0,Darebin,Northern Metropolitan
+11507,South Yarra,4/4 Powell St,u,1,10.0,,401500.0,2.7,3141.0,Stonnington,Southern Metropolitan
+6019,Sunshine North,2/86 Phoenix St,u,2,14.0,,315000.0,13.3,3020.0,Brimbank,Western Metropolitan
+13267,Prahran,7 MacKay St,t,3,15.0,147.0,1463000.0,4.6,3181.0,,Southern Metropolitan
+8364,South Yarra,6/38 Chambers St,u,3,15.0,15.0,1320000.0,3.3,3141.0,Stonnington,Southern Metropolitan
+10865,West Melbourne,125/33 Jeffcott St,u,2,17.0,90.0,670000.0,3.1,3003.0,Melbourne,Northern Metropolitan
