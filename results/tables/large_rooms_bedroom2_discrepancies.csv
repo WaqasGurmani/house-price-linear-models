@@ -1,0 +1,78 @@
+,Suburb,Address,Type,Rooms,Bedroom2,Bathroom,BuildingArea,Price,Difference,Absolute_Difference
+7404,Caulfield East,5 Grange Rd,h,3,20.0,1.0,,1650000.0,-17.0,17.0
+6915,Fawkner,39 Lynch Rd,h,3,9.0,6.0,103.0,751000.0,-6.0,6.0
+4980,Preston,421 Murray Rd,h,4,9.0,8.0,280.0,760000.0,-5.0,5.0
+3360,Ivanhoe,20 Locksley Rd,h,4,0.0,2.0,201.0,2400000.0,4.0,4.0
+1926,Coburg,35 The Grove,u,8,4.0,2.0,,2250000.0,4.0,4.0
+8301,Reservoir,96b Cheddar Rd,h,4,0.0,1.0,,678500.0,4.0,4.0
+8998,Airport West,8 Kittyhawk St,h,4,0.0,3.0,,1026000.0,4.0,4.0
+5459,Rosanna,180 Grandview Gr,h,6,3.0,3.0,,1245000.0,3.0,3.0
+3339,Hughesdale,159 Warrigal Rd,h,4,1.0,1.0,,900000.0,3.0,3.0
+913,Bentleigh East,579 Warrigal Rd,h,3,0.0,0.0,,700000.0,3.0,3.0
+804,Bentleigh East,17a Edinburgh St,t,3,0.0,2.0,141.0,830000.0,3.0,3.0
+827,Bentleigh East,7 Wallace St,h,3,0.0,1.0,,1355000.0,3.0,3.0
+235,Armadale,553 Dandenong Rd,h,5,8.0,2.0,,1525000.0,-3.0,3.0
+3483,Keilor East,1/67 Milleara Rd,u,2,5.0,1.0,85.0,502000.0,-3.0,3.0
+6693,Yarraville,129 Roberts St,h,5,2.0,3.0,244.0,1137500.0,3.0,3.0
+7494,Balwyn North,215 Doncaster Rd,h,3,0.0,0.0,,1670000.0,3.0,3.0
+6893,Fawkner,4 Lord St,h,3,0.0,1.0,103.0,585000.0,3.0,3.0
+7385,South Kingsville,55 Saltley St,h,3,0.0,1.0,,1030000.0,3.0,3.0
+2239,Elsternwick,9 Ripon Gr,h,4,1.0,3.0,185.0,1650000.0,3.0,3.0
+7121,Murrumbeena,84 Dalny Rd,t,3,1.0,2.0,,1100000.0,2.0,2.0
+5520,Seddon,6 Staff St,h,4,2.0,1.0,,920000.0,2.0,2.0
+1151,Brighton,11 Butler St,h,5,3.0,3.0,,3751000.0,2.0,2.0
+3276,Heidelberg West,3a Katoomba Ct,h,5,3.0,2.0,,765000.0,2.0,2.0
+6426,Viewbank,15 Christine St,h,3,5.0,3.0,,775000.0,-2.0,2.0
+6465,Watsonia,28 Papua St,h,2,4.0,1.0,98.0,701000.0,-2.0,2.0
+1846,Caulfield South,136 Sycamore St,h,2,4.0,2.0,272.0,1262000.0,-2.0,2.0
+4285,Newport,487 Melbourne Rd,h,8,6.0,2.0,190.0,881000.0,2.0,2.0
+9917,Hawthorn,1/30 Lisson Gr,h,2,0.0,0.0,,1480000.0,2.0,2.0
+2517,Fairfield,48 Gordon St,h,3,1.0,1.0,,1510000.0,2.0,2.0
+1229,Brighton East,18 Curzon St,h,4,2.0,2.0,,1720000.0,2.0,2.0
+207,Altona North,1/156 Chambers Rd,h,3,5.0,2.0,100.0,620000.0,-2.0,2.0
+5346,Richmond,30 Highett St,h,4,2.0,3.0,241.0,3001000.0,2.0,2.0
+3564,Kensington,28 Pridham St,h,5,3.0,1.0,,1001000.0,2.0,2.0
+6737,Aberfeldie,5 Aroona Ct,h,1,3.0,2.0,136.0,1720000.0,-2.0,2.0
+4547,Oakleigh South,14 Columbia St,h,3,1.0,1.0,120.0,802000.0,2.0,2.0
+6168,Surrey Hills,16 Pembroke St,h,4,2.0,1.0,,1650000.0,2.0,2.0
+55,Airport West,241 Parer Rd,h,5,3.0,2.0,,755000.0,2.0,2.0
+6881,Essendon West,6 Sapphire St,h,7,5.0,2.0,316.0,1300000.0,2.0,2.0
+6731,Aberfeldie,21 May St,h,4,2.0,2.0,204.0,1346000.0,2.0,2.0
+4249,Newport,4 Peel St,h,5,3.0,3.0,293.0,2415000.0,2.0,2.0
+3640,Kew,24 Fitzwilliam St,h,5,3.0,2.0,1022.0,1975000.0,2.0,2.0
+627,Balwyn North,141 Greythorn Rd,h,5,3.0,1.0,,1500000.0,2.0,2.0
+1234,Brighton East,8 Thomas St,h,2,4.0,3.0,250.0,1310000.0,-2.0,2.0
+4896,Preston,10 May St,h,4,2.0,1.0,,931000.0,2.0,2.0
+4409,Northcote,32 Stott St,h,4,2.0,1.0,,905000.0,2.0,2.0
+6843,Carlton,32 Dorrit St,h,4,2.0,2.0,,2033000.0,2.0,2.0
+636,Balwyn North,2 Tudor Ct,h,7,5.0,3.0,529.0,2600000.0,2.0,2.0
+1752,Carnegie,10/81 Koornang Rd,u,2,4.0,2.0,,662000.0,-2.0,2.0
+1115,Brighton,89 South Rd,h,3,5.0,6.0,419.0,2020000.0,-2.0,2.0
+603,Balwyn North,325 Belmore Rd,h,5,3.0,4.0,520.0,3250000.0,2.0,2.0
+6742,Aberfeldie,29 Beaver St,h,5,3.0,3.0,247.0,1740000.0,2.0,2.0
+3235,Heidelberg Heights,36 Southern Rd,h,4,2.0,2.0,,758500.0,2.0,2.0
+6201,Templestowe Lower,40 Ironbark Dr,h,8,6.0,4.0,,1150000.0,2.0,2.0
+6149,Surrey Hills,53 Broughton Rd,h,5,3.0,2.0,,1350000.0,2.0,2.0
+1206,Brighton East,4a Marriage Rd,h,4,2.0,2.0,177.0,1530000.0,2.0,2.0
+9330,South Yarra,7/215 Williams Rd,u,2,0.0,1.0,63.0,535000.0,2.0,2.0
+7060,Heidelberg,36 Buckingham Dr,h,3,5.0,3.0,357.0,1030000.0,-2.0,2.0
+6649,Yarraville,25 Gray St,h,4,2.0,1.0,93.0,706000.0,2.0,2.0
+413,Ashwood,4 Scenic Dr,h,4,2.0,2.0,203.0,1500000.0,2.0,2.0
+6004,Sunshine,5 Jessie St,h,4,2.0,2.0,97.0,1001000.0,2.0,2.0
+6751,Aberfeldie,13 Batman St,h,5,3.0,2.0,,2400000.0,2.0,2.0
+2253,Elsternwick,5/29 Nepean Hwy,u,2,0.0,0.0,,410000.0,2.0,2.0
+3359,Ivanhoe,9 Cook St,h,3,5.0,3.0,378.0,981000.0,-2.0,2.0
+5246,Reservoir,12 Nutwood St,h,5,3.0,2.0,285.0,762500.0,2.0,2.0
+7023,Hawthorn East,103 Pleasant Rd,h,5,3.0,3.0,,1900000.0,2.0,2.0
+607,Balwyn North,6 Abassia St,h,6,4.0,2.0,,1505000.0,2.0,2.0
+2197,Eaglemont,6 Ashby Gr,h,5,3.0,2.0,225.0,1901000.0,2.0,2.0
+6382,Toorak,3 Mell St,h,5,3.0,1.0,,2170000.0,2.0,2.0
+4423,Northcote,14 Henry St,h,2,4.0,1.0,,1112000.0,-2.0,2.0
+5127,Reservoir,60 Powell St,h,3,1.0,1.0,,830000.0,2.0,2.0
+7152,Murrumbeena,2/15 Melbourne St,u,2,4.0,1.0,92.0,603000.0,-2.0,2.0
+5515,Seddon,32 Walter St,h,4,2.0,2.0,127.0,970000.0,2.0,2.0
+322,Ascot Vale,26 Ayr St,h,6,4.0,2.0,286.0,1430000.0,2.0,2.0
+3803,Malvern,2 McArthur St,h,4,2.0,1.0,,1617000.0,2.0,2.0
+4787,Port Melbourne,73 Heath St,h,1,3.0,1.0,,1014000.0,-2.0,2.0
+3296,Heidelberg West,5 Pacific Dr,h,3,1.0,2.0,,605000.0,2.0,2.0
+1184,Brighton East,5 Margaret St,h,2,4.0,3.0,119.0,1780000.0,-2.0,2.0
