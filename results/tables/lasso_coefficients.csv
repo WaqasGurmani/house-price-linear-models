@@ -1,0 +1,803 @@
+Feature,Coefficient
+numerical__Rooms,162570.90440007622
+numerical__Distance,-204924.3784991328
+numerical__Bathroom,111753.49897595106
+numerical__Car,45690.00503968414
+numerical__Landsize,13073.183056712021
+numerical__BuildingArea,13481.695118957154
+numerical__YearBuilt,-47697.16779543883
+numerical__Lattitude,-98642.77615513247
+numerical__Longtitude,4277.497066412579
+numerical__Propertycount,13375.038270433204
+categorical__Suburb_Abbotsford,-600.442444357008
+categorical__Suburb_Aberfeldie,93387.28183536572
+categorical__Suburb_Airport West,0.0
+categorical__Suburb_Albanvale,0.0
+categorical__Suburb_Albert Park,-0.0
+categorical__Suburb_Albion,87190.51063657869
+categorical__Suburb_Alphington,184516.11150753894
+categorical__Suburb_Altona,42186.4006637197
+categorical__Suburb_Altona Meadows,-0.0
+categorical__Suburb_Altona North,-43321.39398851195
+categorical__Suburb_Ardeer,-0.0
+categorical__Suburb_Armadale,162321.46792595822
+categorical__Suburb_Ascot Vale,0.0
+categorical__Suburb_Ashburton,132577.34722206282
+categorical__Suburb_Ashwood,-184626.946779976
+categorical__Suburb_Aspendale,-0.0
+categorical__Suburb_Aspendale Gardens,-12377.660171649377
+categorical__Suburb_Attwood,-0.0
+categorical__Suburb_Avondale Heights,-179.48561581182872
+categorical__Suburb_Bacchus Marsh,0.0
+categorical__Suburb_Balaclava,-36275.77624621778
+categorical__Suburb_Balwyn,345157.77340957476
+categorical__Suburb_Balwyn North,194665.29238988995
+categorical__Suburb_Bayswater,-0.0
+categorical__Suburb_Bayswater North,-0.0
+categorical__Suburb_Beaconsfield,0.0
+categorical__Suburb_Beaumaris,0.0
+categorical__Suburb_Bellfield,0.0
+categorical__Suburb_Bentleigh,-0.0
+categorical__Suburb_Bentleigh East,-61077.51663008484
+categorical__Suburb_Berwick,-60080.091062764644
+categorical__Suburb_Black Rock,0.0
+categorical__Suburb_Blackburn,27241.47899041224
+categorical__Suburb_Blackburn North,-0.0
+categorical__Suburb_Blackburn South,-0.0
+categorical__Suburb_Bonbeach,0.0
+categorical__Suburb_Boronia,-0.0
+categorical__Suburb_Box Hill,28903.89338906926
+categorical__Suburb_Braybrook,-46363.57728946883
+categorical__Suburb_Briar Hill,0.0
+categorical__Suburb_Brighton,409865.51352674456
+categorical__Suburb_Brighton East,3670.1902383453753
+categorical__Suburb_Broadmeadows,0.0
+categorical__Suburb_Brooklyn,0.0
+categorical__Suburb_Brunswick,0.0
+categorical__Suburb_Brunswick East,1324.1775003152095
+categorical__Suburb_Brunswick West,-15305.875178056354
+categorical__Suburb_Bulleen,-26753.046470416735
+categorical__Suburb_Bullengarook,0.0
+categorical__Suburb_Bundoora,-61519.42658135312
+categorical__Suburb_Burnley,0.0
+categorical__Suburb_Burnside,-0.0
+categorical__Suburb_Burnside Heights,0.0
+categorical__Suburb_Burwood,-41247.65439436304
+categorical__Suburb_Burwood East,-0.0
+categorical__Suburb_Cairnlea,-0.0
+categorical__Suburb_Camberwell,754.9860970108442
+categorical__Suburb_Campbellfield,-0.0
+categorical__Suburb_Canterbury,626127.989580294
+categorical__Suburb_Carlton,5638.499438575869
+categorical__Suburb_Carlton North,0.0
+categorical__Suburb_Carnegie,0.0
+categorical__Suburb_Caroline Springs,-0.0
+categorical__Suburb_Carrum,13461.963946028214
+categorical__Suburb_Carrum Downs,-496.4884715593509
+categorical__Suburb_Caulfield,-67669.24608115958
+categorical__Suburb_Caulfield East,-0.0
+categorical__Suburb_Caulfield North,-0.0
+categorical__Suburb_Caulfield South,0.0
+categorical__Suburb_Chadstone,-152690.15125423914
+categorical__Suburb_Chelsea,0.0
+categorical__Suburb_Chelsea Heights,-0.0
+categorical__Suburb_Cheltenham,-89368.19279270712
+categorical__Suburb_Chirnside Park,0.0
+categorical__Suburb_Clarinda,-6136.9661354564405
+categorical__Suburb_Clayton,0.0
+categorical__Suburb_Clayton South,-0.0
+categorical__Suburb_Clifton Hill,0.0
+categorical__Suburb_Coburg,-0.0
+categorical__Suburb_Coburg North,-38629.03839471199
+categorical__Suburb_Collingwood,-0.0
+categorical__Suburb_Coolaroo,-0.0
+categorical__Suburb_Craigieburn,24460.76585222591
+categorical__Suburb_Cranbourne,-0.0
+categorical__Suburb_Cranbourne North,-0.0
+categorical__Suburb_Cremorne,-0.0
+categorical__Suburb_Croydon,-0.0
+categorical__Suburb_Croydon Hills,-0.0
+categorical__Suburb_Croydon North,-0.0
+categorical__Suburb_Croydon South,0.0
+categorical__Suburb_Dallas,-0.0
+categorical__Suburb_Dandenong,0.0
+categorical__Suburb_Dandenong North,-184507.50278021293
+categorical__Suburb_Deepdene,-0.0
+categorical__Suburb_Deer Park,-0.0
+categorical__Suburb_Delahey,-0.0
+categorical__Suburb_Derrimut,0.0
+categorical__Suburb_Diamond Creek,-0.0
+categorical__Suburb_Diggers Rest,0.0
+categorical__Suburb_Dingley Village,-0.0
+categorical__Suburb_Docklands,-0.0
+categorical__Suburb_Doncaster,173.07678013583197
+categorical__Suburb_Doncaster East,38699.63413334768
+categorical__Suburb_Donvale,0.0
+categorical__Suburb_Doreen,-0.0
+categorical__Suburb_Doveton,-0.0
+categorical__Suburb_Eaglemont,586655.1568998424
+categorical__Suburb_East Melbourne,475983.3588652791
+categorical__Suburb_Edithvale,-0.0
+categorical__Suburb_Elsternwick,38062.504423330756
+categorical__Suburb_Eltham,-0.0
+categorical__Suburb_Eltham North,-40562.18573254374
+categorical__Suburb_Elwood,-0.0
+categorical__Suburb_Endeavour Hills,-0.0
+categorical__Suburb_Epping,0.0
+categorical__Suburb_Essendon,30759.351389927022
+categorical__Suburb_Essendon North,181526.3711813661
+categorical__Suburb_Essendon West,-42812.47481036355
+categorical__Suburb_Fairfield,0.0
+categorical__Suburb_Fawkner,-83859.18490435558
+categorical__Suburb_Ferntree Gully,0.0
+categorical__Suburb_Fitzroy,175820.56267797612
+categorical__Suburb_Fitzroy North,108886.65123160118
+categorical__Suburb_Flemington,-98132.63528308723
+categorical__Suburb_Footscray,-0.0
+categorical__Suburb_Forest Hill,-65460.60662285368
+categorical__Suburb_Frankston,-0.0
+categorical__Suburb_Frankston North,-0.0
+categorical__Suburb_Frankston South,205778.9870914803
+categorical__Suburb_Gardenvale,-0.0
+categorical__Suburb_Gisborne,0.0
+categorical__Suburb_Gladstone Park,-0.0
+categorical__Suburb_Glen Huntly,-0.0
+categorical__Suburb_Glen Iris,113344.11859463844
+categorical__Suburb_Glen Waverley,157831.213615189
+categorical__Suburb_Glenroy,-18.899966111594754
+categorical__Suburb_Gowanbrae,-0.0
+categorical__Suburb_Greensborough,-0.0
+categorical__Suburb_Greenvale,-0.0
+categorical__Suburb_Hadfield,-18117.60202565381
+categorical__Suburb_Hallam,0.0
+categorical__Suburb_Hampton,260341.49504678813
+categorical__Suburb_Hampton East,-34463.28763444456
+categorical__Suburb_Hampton Park,-0.0
+categorical__Suburb_Hawthorn,999.5398892755439
+categorical__Suburb_Hawthorn East,28.188287258786392
+categorical__Suburb_Healesville,0.0
+categorical__Suburb_Heathmont,0.0
+categorical__Suburb_Heidelberg,-0.0
+categorical__Suburb_Heidelberg Heights,-0.0
+categorical__Suburb_Heidelberg West,-86671.05921778081
+categorical__Suburb_Highett,1686.99342317433
+categorical__Suburb_Hillside,-0.0
+categorical__Suburb_Hoppers Crossing,-0.0
+categorical__Suburb_Hughesdale,0.0
+categorical__Suburb_Huntingdale,-0.0
+categorical__Suburb_Hurstbridge,-0.0
+categorical__Suburb_Ivanhoe,-0.0
+categorical__Suburb_Ivanhoe East,295994.01315789734
+categorical__Suburb_Jacana,-0.0
+categorical__Suburb_Kealba,-63343.29170856468
+categorical__Suburb_Keilor,0.0
+categorical__Suburb_Keilor Downs,-0.0
+categorical__Suburb_Keilor East,-0.0
+categorical__Suburb_Keilor Lodge,-0.0
+categorical__Suburb_Keilor Park,-0.0
+categorical__Suburb_Kensington,-0.0
+categorical__Suburb_Kew,241.48479912897727
+categorical__Suburb_Kew East,133599.23610682777
+categorical__Suburb_Keysborough,0.0
+categorical__Suburb_Kilsyth,0.0
+categorical__Suburb_Kings Park,-0.0
+categorical__Suburb_Kingsbury,0.0
+categorical__Suburb_Kingsville,20979.49061221261
+categorical__Suburb_Knoxfield,-0.0
+categorical__Suburb_Kooyong,-0.0
+categorical__Suburb_Kurunjang,-0.0
+categorical__Suburb_Lalor,-0.0
+categorical__Suburb_Langwarrin,0.0
+categorical__Suburb_Lower Plenty,-15119.843409418714
+categorical__Suburb_Maidstone,-23312.514203474257
+categorical__Suburb_Malvern,280751.3363778313
+categorical__Suburb_Malvern East,112056.19918241982
+categorical__Suburb_Maribyrnong,-0.0
+categorical__Suburb_McKinnon,0.0
+categorical__Suburb_Meadow Heights,-0.0
+categorical__Suburb_Melbourne,0.0
+categorical__Suburb_Melton,-0.0
+categorical__Suburb_Melton South,0.0
+categorical__Suburb_Melton West,-0.0
+categorical__Suburb_Mentone,140459.62023036275
+categorical__Suburb_Mernda,0.0
+categorical__Suburb_Middle Park,113404.36950806728
+categorical__Suburb_Mill Park,0.0
+categorical__Suburb_Mitcham,0.0
+categorical__Suburb_Monbulk,-0.0
+categorical__Suburb_Mont Albert,91366.98097811968
+categorical__Suburb_Montmorency,0.0
+categorical__Suburb_Montrose,-0.0
+categorical__Suburb_Moonee Ponds,24021.817206882773
+categorical__Suburb_Moorabbin,-113153.51374691301
+categorical__Suburb_Mooroolbark,0.0
+categorical__Suburb_Mordialloc,106756.41309368756
+categorical__Suburb_Mount Evelyn,0.0
+categorical__Suburb_Mount Waverley,7683.967942507482
+categorical__Suburb_Mulgrave,12509.05268757831
+categorical__Suburb_Murrumbeena,-0.0
+categorical__Suburb_Narre Warren,0.0
+categorical__Suburb_New Gisborne,-0.0
+categorical__Suburb_Newport,0.0
+categorical__Suburb_Niddrie,103385.6323406152
+categorical__Suburb_Noble Park,-0.0
+categorical__Suburb_North Melbourne,-0.0
+categorical__Suburb_North Warrandyte,-0.0
+categorical__Suburb_Northcote,109773.36550916356
+categorical__Suburb_Notting Hill,-0.0
+categorical__Suburb_Nunawading,0.0
+categorical__Suburb_Oak Park,74928.25881087175
+categorical__Suburb_Oakleigh,-91548.99952588225
+categorical__Suburb_Oakleigh East,-0.0
+categorical__Suburb_Oakleigh South,-33780.22225778079
+categorical__Suburb_Officer,-0.0
+categorical__Suburb_Ormond,37907.50663793961
+categorical__Suburb_Pakenham,-0.0
+categorical__Suburb_Parkdale,137705.38523182218
+categorical__Suburb_Parkville,124061.36643292931
+categorical__Suburb_Pascoe Vale,-0.0
+categorical__Suburb_Point Cook,-82.13662998796869
+categorical__Suburb_Port Melbourne,-35177.353134044184
+categorical__Suburb_Prahran,-0.0
+categorical__Suburb_Preston,-110046.16288353234
+categorical__Suburb_Princes Hill,0.0
+categorical__Suburb_Reservoir,-65.78289319544574
+categorical__Suburb_Richmond,-0.0
+categorical__Suburb_Riddells Creek,0.0
+categorical__Suburb_Ringwood,13703.300314860957
+categorical__Suburb_Ringwood East,0.0
+categorical__Suburb_Ringwood North,-29813.49934114728
+categorical__Suburb_Ripponlea,-19606.393986182622
+categorical__Suburb_Rosanna,-25426.144065649885
+categorical__Suburb_Rowville,-0.0
+categorical__Suburb_Roxburgh Park,-0.0
+categorical__Suburb_Sandhurst,-0.0
+categorical__Suburb_Sandringham,138869.87806850116
+categorical__Suburb_Scoresby,-0.0
+categorical__Suburb_Seabrook,-0.0
+categorical__Suburb_Seaford,0.0
+categorical__Suburb_Seaholme,0.0
+categorical__Suburb_Seddon,16304.595583552597
+categorical__Suburb_Skye,-0.0
+categorical__Suburb_South Kingsville,0.0
+categorical__Suburb_South Melbourne,-51102.23205594173
+categorical__Suburb_South Morang,-0.0
+categorical__Suburb_South Yarra,-67728.81217539418
+categorical__Suburb_Southbank,-76477.00682796122
+categorical__Suburb_Spotswood,-20567.026396652363
+categorical__Suburb_Springvale,-0.0
+categorical__Suburb_Springvale South,-0.0
+categorical__Suburb_St Albans,0.0
+categorical__Suburb_St Helena,-0.0
+categorical__Suburb_St Kilda,-34331.325182930974
+categorical__Suburb_Strathmore,27341.88740882526
+categorical__Suburb_Strathmore Heights,-18798.398540137834
+categorical__Suburb_Sunbury,279078.3710407726
+categorical__Suburb_Sunshine,4356.077145444718
+categorical__Suburb_Sunshine North,-11590.101125335881
+categorical__Suburb_Sunshine West,-168921.00430297272
+categorical__Suburb_Surrey Hills,0.0
+categorical__Suburb_Sydenham,0.0
+categorical__Suburb_Tarneit,-0.0
+categorical__Suburb_Taylors Hill,-0.0
+categorical__Suburb_Taylors Lakes,-0.0
+categorical__Suburb_Templestowe,8103.114550848506
+categorical__Suburb_Templestowe Lower,-119680.70419311743
+categorical__Suburb_The Basin,-0.0
+categorical__Suburb_Thomastown,-0.0
+categorical__Suburb_Thornbury,5045.562559381979
+categorical__Suburb_Toorak,1154.9486286238139
+categorical__Suburb_Travancore,0.0
+categorical__Suburb_Truganina,0.0
+categorical__Suburb_Tullamarine,0.0
+categorical__Suburb_Vermont,-0.0
+categorical__Suburb_Vermont South,-0.0
+categorical__Suburb_Viewbank,-170781.5782308705
+categorical__Suburb_Wallan,0.0
+categorical__Suburb_Wantirna,-6225.117989698975
+categorical__Suburb_Wantirna South,0.0
+categorical__Suburb_Warrandyte,3166.116836347973
+categorical__Suburb_Waterways,0.0
+categorical__Suburb_Watsonia,82003.483492988
+categorical__Suburb_Watsonia North,-0.0
+categorical__Suburb_Werribee,-0.0
+categorical__Suburb_West Footscray,-12627.94037249491
+categorical__Suburb_West Melbourne,31592.377153976377
+categorical__Suburb_Westmeadows,-0.0
+categorical__Suburb_Wheelers Hill,-134092.49223722235
+categorical__Suburb_Whittlesea,0.0
+categorical__Suburb_Williams Landing,-0.0
+categorical__Suburb_Williamstown,206246.66196367145
+categorical__Suburb_Williamstown North,-0.0
+categorical__Suburb_Windsor,-0.0
+categorical__Suburb_Wollert,90584.51880256561
+categorical__Suburb_Wyndham Vale,0.0
+categorical__Suburb_Yallambie,-0.0
+categorical__Suburb_Yarra Glen,0.0
+categorical__Suburb_Yarraville,13857.552960124593
+categorical__Type_h,285518.0513274218
+categorical__Type_t,0.0
+categorical__Type_u,-204880.42193883873
+categorical__SellerG_@Realty,-0.0
+categorical__SellerG_ASL,0.0
+categorical__SellerG_Abercromby's,581735.0675450676
+categorical__SellerG_Ace,0.0
+categorical__SellerG_Alexkarbon,0.0
+categorical__SellerG_Allens,-0.0
+categorical__SellerG_Anderson,0.0
+categorical__SellerG_Appleby,-0.0
+categorical__SellerG_Aquire,-0.0
+categorical__SellerG_Area,-0.0
+categorical__SellerG_Ash,0.0
+categorical__SellerG_Asset,0.0
+categorical__SellerG_Assisi,20132.112140082754
+categorical__SellerG_Australian,-0.0
+categorical__SellerG_Barlow,2996.3920958123545
+categorical__SellerG_Barry,-5381.4470138437355
+categorical__SellerG_Bayside,-0.0
+categorical__SellerG_Bekdon,-0.0
+categorical__SellerG_Beller,-0.0
+categorical__SellerG_Bells,17597.309324910322
+categorical__SellerG_Besser,-0.0
+categorical__SellerG_Better,-0.0
+categorical__SellerG_Biggin,-1795.456684168854
+categorical__SellerG_Bowman,-0.0
+categorical__SellerG_Brace,-0.0
+categorical__SellerG_Brad,10580.03579842362
+categorical__SellerG_Buckingham,-0.0
+categorical__SellerG_Bullen,-0.0
+categorical__SellerG_Burnham,38041.688097030885
+categorical__SellerG_Buxton,11419.901981866662
+categorical__SellerG_Buxton/Advantage,-0.0
+categorical__SellerG_Buxton/Find,0.0
+categorical__SellerG_C21,-4342.124497708729
+categorical__SellerG_CASTRAN,-0.0
+categorical__SellerG_Caine,197734.77136458762
+categorical__SellerG_Calder,0.0
+categorical__SellerG_Carter,0.0
+categorical__SellerG_Castran,489617.9634077641
+categorical__SellerG_Cayzer,-0.0
+categorical__SellerG_Century,-0.0
+categorical__SellerG_Chambers,21200.251271208785
+categorical__SellerG_Changing,-0.0
+categorical__SellerG_Charlton,0.0
+categorical__SellerG_Chisholm,0.0
+categorical__SellerG_Christopher,-40416.92167319184
+categorical__SellerG_Clairmont,0.0
+categorical__SellerG_Collins,133522.59165491338
+categorical__SellerG_Community,-0.0
+categorical__SellerG_Compton,-0.0
+categorical__SellerG_Conquest,0.0
+categorical__SellerG_Considine,-0.0
+categorical__SellerG_Coventry,-0.0
+categorical__SellerG_Crane,-0.0
+categorical__SellerG_D'Aprano,-0.0
+categorical__SellerG_Daniel,0.0
+categorical__SellerG_Darren,100659.8809971817
+categorical__SellerG_David,-0.0
+categorical__SellerG_Del,0.0
+categorical__SellerG_Dingle,-36491.97676803124
+categorical__SellerG_Dixon,-0.0
+categorical__SellerG_Domain,-55938.94579027973
+categorical__SellerG_Douglas,-43528.33517301009
+categorical__SellerG_Edward,0.0
+categorical__SellerG_Elite,0.0
+categorical__SellerG_Eview,-0.0
+categorical__SellerG_FN,-0.0
+categorical__SellerG_First,-0.0
+categorical__SellerG_Fletchers,26449.361918484534
+categorical__SellerG_Fletchers/One,-0.0
+categorical__SellerG_Follett,-0.0
+categorical__SellerG_Frank,0.0
+categorical__SellerG_Free,0.0
+categorical__SellerG_GL,0.0
+categorical__SellerG_Galldon,-0.0
+categorical__SellerG_Gardiner,-0.0
+categorical__SellerG_Garvey,0.0
+categorical__SellerG_Gary,-50138.208977816656
+categorical__SellerG_Geoff,-0.0
+categorical__SellerG_Grantham,0.0
+categorical__SellerG_Greg,67486.72329617658
+categorical__SellerG_Gunn&Co,0.0
+categorical__SellerG_HAR,-0.0
+categorical__SellerG_Hall,1592409.7273415506
+categorical__SellerG_Ham,-0.0
+categorical__SellerG_Harcourts,-0.0
+categorical__SellerG_Harrington,-68417.48458140575
+categorical__SellerG_Haughton,-4131.126100423521
+categorical__SellerG_Hayeswinckle,-0.0
+categorical__SellerG_Hodges,-0.0
+categorical__SellerG_Holland,-0.0
+categorical__SellerG_Homes,-0.0
+categorical__SellerG_Hooper,4652.406394864432
+categorical__SellerG_Hoskins,-0.0
+categorical__SellerG_Hunter,-0.0
+categorical__SellerG_Iconek,0.0
+categorical__SellerG_J,-0.0
+categorical__SellerG_JMRE,-0.0
+categorical__SellerG_JRW,-0.0
+categorical__SellerG_Jas,23317.91172343146
+categorical__SellerG_Jason,2392.7557688857414
+categorical__SellerG_Jellis,88321.15603192247
+categorical__SellerG_Joseph,0.0
+categorical__SellerG_Kay,403261.0593325195
+categorical__SellerG_Keatings,0.0
+categorical__SellerG_Kelly,335112.69813572423
+categorical__SellerG_L,-0.0
+categorical__SellerG_LITTLE,-105863.9774448817
+categorical__SellerG_LJ,0.0
+categorical__SellerG_LLC,0.0
+categorical__SellerG_Langwell,-0.0
+categorical__SellerG_Le,-0.0
+categorical__SellerG_Leading,-0.0
+categorical__SellerG_Leased,0.0
+categorical__SellerG_Leeburn,0.0
+categorical__SellerG_Leyton,-0.0
+categorical__SellerG_Lindellas,185519.464992716
+categorical__SellerG_Love,24919.196523166986
+categorical__SellerG_Lucas,0.0
+categorical__SellerG_Luxe,-0.0
+categorical__SellerG_Luxton,-0.0
+categorical__SellerG_M.J,0.0
+categorical__SellerG_MICM,0.0
+categorical__SellerG_Maddison,-0.0
+categorical__SellerG_Mandy,-0.0
+categorical__SellerG_Marshall,264329.0965656047
+categorical__SellerG_Mason,-0.0
+categorical__SellerG_Matthew,0.0
+categorical__SellerG_Max,0.0
+categorical__SellerG_McDonald,949.6791958322531
+categorical__SellerG_McGrath,67561.60263416312
+categorical__SellerG_McLennan,0.0
+categorical__SellerG_McNaughton,0.0
+categorical__SellerG_Melbourne,22408.254355869965
+categorical__SellerG_Miles,63337.38664999429
+categorical__SellerG_Millership,0.0
+categorical__SellerG_Mindacom,0.0
+categorical__SellerG_Mitchell,0.0
+categorical__SellerG_Moonee,-0.0
+categorical__SellerG_Morleys,-0.0
+categorical__SellerG_Morrison,0.0
+categorical__SellerG_Nardella,-0.0
+categorical__SellerG_Nelson,-1693.837206011397
+categorical__SellerG_New,0.0
+categorical__SellerG_Nguyen,-0.0
+categorical__SellerG_Nicholls,-0.0
+categorical__SellerG_Nicholson,-0.0
+categorical__SellerG_Nick,102125.26605307726
+categorical__SellerG_Noel,-32587.792495414342
+categorical__SellerG_North,0.0
+categorical__SellerG_O'Brien,-1655.1986487818485
+categorical__SellerG_O'Donoghues,-56486.08910005167
+categorical__SellerG_Obrien,-0.0
+categorical__SellerG_One,-0.0
+categorical__SellerG_Only,0.0
+categorical__SellerG_Oriental,0.0
+categorical__SellerG_Owen,-0.0
+categorical__SellerG_PRD,-0.0
+categorical__SellerG_PRDNationwide,0.0
+categorical__SellerG_Pagan,0.0
+categorical__SellerG_Parkes,-0.0
+categorical__SellerG_Parkinson,-0.0
+categorical__SellerG_Paul,0.0
+categorical__SellerG_Peake,0.0
+categorical__SellerG_Peter,0.0
+categorical__SellerG_Philip,0.0
+categorical__SellerG_Point,-0.0
+categorical__SellerG_Pride,-0.0
+categorical__SellerG_Prime,-0.0
+categorical__SellerG_Private/Tiernan's,0.0
+categorical__SellerG_Prof.,-0.0
+categorical__SellerG_Property,0.0
+categorical__SellerG_Propertyau,-0.0
+categorical__SellerG_Prowse,-0.0
+categorical__SellerG_Purplebricks,-83554.97090458132
+categorical__SellerG_R&H,0.0
+categorical__SellerG_RE,0.0
+categorical__SellerG_REMAX,-0.0
+categorical__SellerG_RT,127932.19056909175
+categorical__SellerG_RW,-5167.361568513831
+categorical__SellerG_Raine,-8784.600260632351
+categorical__SellerG_Raine&Horne,-0.0
+categorical__SellerG_Ray,-37752.622916933506
+categorical__SellerG_Re,-0.0
+categorical__SellerG_Reach,-0.0
+categorical__SellerG_Real,0.0
+categorical__SellerG_Red,0.0
+categorical__SellerG_Redina,0.0
+categorical__SellerG_Reed,0.0
+categorical__SellerG_Reliance,-0.0
+categorical__SellerG_Rendina,-0.0
+categorical__SellerG_Rexhepi,-0.0
+categorical__SellerG_Ristic,-0.0
+categorical__SellerG_Rodney,-31103.478538163374
+categorical__SellerG_Roger,0.0
+categorical__SellerG_Rosin,0.0
+categorical__SellerG_Ross,-265117.16567493463
+categorical__SellerG_Rounds,0.0
+categorical__SellerG_Ryder,0.0
+categorical__SellerG_S&L,0.0
+categorical__SellerG_SN,-0.0
+categorical__SellerG_Schroeder,0.0
+categorical__SellerG_Scott,-0.0
+categorical__SellerG_Sell,-0.0
+categorical__SellerG_Sotheby's,703489.9405982302
+categorical__SellerG_Steveway,-0.0
+categorical__SellerG_Stockdale,-0.0
+categorical__SellerG_Sweeney,0.0
+categorical__SellerG_Sweeney/Advantage,-0.0
+categorical__SellerG_TRUE,-0.0
+categorical__SellerG_The,0.0
+categorical__SellerG_Thomas,-0.0
+categorical__SellerG_Thomson,-125695.46963343336
+categorical__SellerG_Tiernan's,-0.0
+categorical__SellerG_Tim,-71808.54872885275
+categorical__SellerG_Trimson,0.0
+categorical__SellerG_Triwest,0.0
+categorical__SellerG_U,-0.0
+categorical__SellerG_Upper,0.0
+categorical__SellerG_VICPROP,-0.0
+categorical__SellerG_VICProp,719054.6325551874
+categorical__SellerG_Veitch,-0.0
+categorical__SellerG_Vic,-0.0
+categorical__SellerG_Victory,-0.0
+categorical__SellerG_Village,17501.474324075883
+categorical__SellerG_W.B.,0.0
+categorical__SellerG_WHITEFOX,0.0
+categorical__SellerG_Walsh,0.0
+categorical__SellerG_Walshe,-0.0
+categorical__SellerG_Weast,0.0
+categorical__SellerG_Weda,0.0
+categorical__SellerG_Weston,-0.0
+categorical__SellerG_Westside,-0.0
+categorical__SellerG_White,0.0
+categorical__SellerG_Whiting,-0.0
+categorical__SellerG_William,-0.0
+categorical__SellerG_Williams,51784.32813614876
+categorical__SellerG_Wilson,0.0
+categorical__SellerG_Win,-0.0
+categorical__SellerG_Wood,-0.0
+categorical__SellerG_Woodards,0.0
+categorical__SellerG_Xynergy,-0.0
+categorical__SellerG_YPA,-38948.75771941594
+categorical__SellerG_buyMyplace,-0.0
+categorical__SellerG_hockingstuart,-37714.49899650886
+categorical__SellerG_hockingstuart/Barry,0.0
+categorical__SellerG_hockingstuart/Village,0.0
+categorical__SellerG_iOne,-0.0
+categorical__SellerG_iSell,0.0
+categorical__SellerG_iTRAK,-26749.73986250233
+categorical__Postcode_3000,0.0
+categorical__Postcode_3002,170135.04847228253
+categorical__Postcode_3003,43866.61871535929
+categorical__Postcode_3006,-268181.3542395932
+categorical__Postcode_3008,-0.0
+categorical__Postcode_3011,13190.924448455205
+categorical__Postcode_3012,-0.0
+categorical__Postcode_3013,12026.325550970292
+categorical__Postcode_3015,-0.0
+categorical__Postcode_3016,42480.522522712396
+categorical__Postcode_3018,90817.76247773562
+categorical__Postcode_3019,-203.42316860328177
+categorical__Postcode_3020,0.0
+categorical__Postcode_3021,-55762.7824964025
+categorical__Postcode_3022,-0.0
+categorical__Postcode_3023,-36852.27606891822
+categorical__Postcode_3024,0.0
+categorical__Postcode_3025,-90615.24261295
+categorical__Postcode_3027,-0.0
+categorical__Postcode_3028,-0.0
+categorical__Postcode_3029,-172007.552084011
+categorical__Postcode_3030,-343138.41639839543
+categorical__Postcode_3031,-22563.129232702824
+categorical__Postcode_3032,31464.811140748232
+categorical__Postcode_3033,-0.0
+categorical__Postcode_3034,-94183.92469126706
+categorical__Postcode_3036,0.0
+categorical__Postcode_3037,-0.0
+categorical__Postcode_3038,-33839.184719302255
+categorical__Postcode_3039,123021.2494051491
+categorical__Postcode_3040,239204.80505776525
+categorical__Postcode_3041,63126.09941087975
+categorical__Postcode_3042,115398.70503052736
+categorical__Postcode_3043,-0.0
+categorical__Postcode_3044,-0.0
+categorical__Postcode_3046,-59725.71905853994
+categorical__Postcode_3047,-51062.72056994033
+categorical__Postcode_3048,-58390.193155075634
+categorical__Postcode_3049,-0.0
+categorical__Postcode_3051,-0.0
+categorical__Postcode_3052,35198.44166398691
+categorical__Postcode_3053,25978.722882367725
+categorical__Postcode_3054,413555.4125017068
+categorical__Postcode_3055,-2256.023950797554
+categorical__Postcode_3056,0.0
+categorical__Postcode_3057,204.86760190855944
+categorical__Postcode_3058,-77998.00491493108
+categorical__Postcode_3059,-0.0
+categorical__Postcode_3060,-84.0242448792414
+categorical__Postcode_3061,-0.0
+categorical__Postcode_3064,0.0
+categorical__Postcode_3065,12324.99460463276
+categorical__Postcode_3066,-0.0
+categorical__Postcode_3067,-17477.4016708191
+categorical__Postcode_3068,106426.93179337264
+categorical__Postcode_3070,17966.210664313036
+categorical__Postcode_3071,7911.801658280603
+categorical__Postcode_3072,-85.26418519515363
+categorical__Postcode_3073,-113290.49093525721
+categorical__Postcode_3074,-0.0
+categorical__Postcode_3075,-0.0
+categorical__Postcode_3076,0.0
+categorical__Postcode_3078,31601.702083681743
+categorical__Postcode_3079,134618.86711556977
+categorical__Postcode_3081,-238615.63503024954
+categorical__Postcode_3082,0.0
+categorical__Postcode_3083,-70835.18853954911
+categorical__Postcode_3084,-46465.038102779305
+categorical__Postcode_3085,-0.0
+categorical__Postcode_3087,0.0
+categorical__Postcode_3088,0.0
+categorical__Postcode_3089,-0.0
+categorical__Postcode_3093,-17621.40040172442
+categorical__Postcode_3094,0.0
+categorical__Postcode_3095,-47914.65648033028
+categorical__Postcode_3099,-0.0
+categorical__Postcode_3101,148194.01040072477
+categorical__Postcode_3102,1030.8448040412468
+categorical__Postcode_3103,0.0
+categorical__Postcode_3104,748.21881259415
+categorical__Postcode_3105,-62825.91833294523
+categorical__Postcode_3106,62903.97275978352
+categorical__Postcode_3107,-20997.56426242104
+categorical__Postcode_3108,2366.518620571999
+categorical__Postcode_3109,188.59972553138397
+categorical__Postcode_3111,0.0
+categorical__Postcode_3113,0.0
+categorical__Postcode_3116,0.0
+categorical__Postcode_3121,-0.0
+categorical__Postcode_3122,18013.03521371539
+categorical__Postcode_3123,140295.7845734557
+categorical__Postcode_3124,197041.78273788036
+categorical__Postcode_3125,-64561.77596331419
+categorical__Postcode_3126,1031.0344793749382
+categorical__Postcode_3127,187796.379635869
+categorical__Postcode_3128,128108.90590181484
+categorical__Postcode_3130,0.0
+categorical__Postcode_3131,-0.0
+categorical__Postcode_3132,0.0
+categorical__Postcode_3133,-43193.16469570183
+categorical__Postcode_3134,0.0
+categorical__Postcode_3135,0.0
+categorical__Postcode_3136,-9324.713715637183
+categorical__Postcode_3137,0.0
+categorical__Postcode_3138,0.0
+categorical__Postcode_3141,-43013.02906674437
+categorical__Postcode_3142,255213.6516649025
+categorical__Postcode_3143,1124.7038740066953
+categorical__Postcode_3144,0.0
+categorical__Postcode_3145,0.0
+categorical__Postcode_3146,811.6909155119262
+categorical__Postcode_3147,0.0
+categorical__Postcode_3148,-128779.94349209998
+categorical__Postcode_3149,1250.605772573039
+categorical__Postcode_3150,0.0
+categorical__Postcode_3151,-0.0
+categorical__Postcode_3152,-216910.5923136322
+categorical__Postcode_3153,-34664.46010446718
+categorical__Postcode_3154,-0.0
+categorical__Postcode_3155,-0.0
+categorical__Postcode_3156,0.0
+categorical__Postcode_3161,-0.0
+categorical__Postcode_3162,-5457.067979045063
+categorical__Postcode_3163,-4378.990446544575
+categorical__Postcode_3165,-71977.35900638526
+categorical__Postcode_3166,-181082.07518856548
+categorical__Postcode_3167,-50159.339412629386
+categorical__Postcode_3168,0.0
+categorical__Postcode_3169,-46010.58277283072
+categorical__Postcode_3170,23517.05920291867
+categorical__Postcode_3171,-0.0
+categorical__Postcode_3172,-0.0
+categorical__Postcode_3173,0.0
+categorical__Postcode_3174,-0.0
+categorical__Postcode_3175,-47705.063166916094
+categorical__Postcode_3177,-0.0
+categorical__Postcode_3178,-0.0
+categorical__Postcode_3179,-0.0
+categorical__Postcode_3180,-0.0
+categorical__Postcode_3181,-139442.89818587227
+categorical__Postcode_3182,-33021.88426862682
+categorical__Postcode_3183,-36389.539689903926
+categorical__Postcode_3184,-0.0
+categorical__Postcode_3185,-0.0
+categorical__Postcode_3186,67198.84333846433
+categorical__Postcode_3187,1208.708597997615
+categorical__Postcode_3188,-0.0
+categorical__Postcode_3189,-163047.2309459778
+categorical__Postcode_3190,7337.205079918139
+categorical__Postcode_3191,31585.253296960676
+categorical__Postcode_3192,-95233.14561516135
+categorical__Postcode_3193,185828.07102569062
+categorical__Postcode_3194,54836.74026789779
+categorical__Postcode_3195,98986.68345284702
+categorical__Postcode_3196,108928.18672268007
+categorical__Postcode_3197,107590.77769724833
+categorical__Postcode_3198,0.0
+categorical__Postcode_3199,33838.554379100795
+categorical__Postcode_3200,-0.0
+categorical__Postcode_3201,-17574.47831610345
+categorical__Postcode_3204,0.0
+categorical__Postcode_3205,-59720.6281270223
+categorical__Postcode_3206,350069.38922159147
+categorical__Postcode_3207,-44783.058904366
+categorical__Postcode_3337,-0.0
+categorical__Postcode_3338,0.0
+categorical__Postcode_3340,0.0
+categorical__Postcode_3427,0.0
+categorical__Postcode_3429,262731.74814063887
+categorical__Postcode_3431,0.0
+categorical__Postcode_3437,356021.0648389152
+categorical__Postcode_3438,-0.0
+categorical__Postcode_3750,81035.58590561757
+categorical__Postcode_3752,-0.0
+categorical__Postcode_3754,0.0
+categorical__Postcode_3756,0.0
+categorical__Postcode_3757,0.0
+categorical__Postcode_3765,-0.0
+categorical__Postcode_3775,0.0
+categorical__Postcode_3777,0.0
+categorical__Postcode_3793,-0.0
+categorical__Postcode_3796,0.0
+categorical__Postcode_3802,-0.0
+categorical__Postcode_3803,0.0
+categorical__Postcode_3805,0.0
+categorical__Postcode_3806,-13007.537710182729
+categorical__Postcode_3807,0.0
+categorical__Postcode_3809,-0.0
+categorical__Postcode_3810,-0.0
+categorical__Postcode_3910,0.0
+categorical__Postcode_3976,-0.0
+categorical__Postcode_3977,-30642.72451882005
+categorical__CouncilArea_Banyule,-21506.979927265595
+categorical__CouncilArea_Bayside,-0.0
+categorical__CouncilArea_Boroondara,8062.269106262894
+categorical__CouncilArea_Brimbank,-0.0
+categorical__CouncilArea_Cardinia,0.0
+categorical__CouncilArea_Casey,-55960.348297331235
+categorical__CouncilArea_Darebin,62518.42237546461
+categorical__CouncilArea_Frankston,-0.0
+categorical__CouncilArea_Glen Eira,-65639.89660895296
+categorical__CouncilArea_Greater Dandenong,-91768.20613329957
+categorical__CouncilArea_Hobsons Bay,14830.458759097857
+categorical__CouncilArea_Hume,0.0
+categorical__CouncilArea_Kingston,-0.0
+categorical__CouncilArea_Knox,-0.0
+categorical__CouncilArea_Macedon Ranges,323354.12325772765
+categorical__CouncilArea_Manningham,50938.16109457472
+categorical__CouncilArea_Maribyrnong,0.0
+categorical__CouncilArea_Maroondah,43996.05183308592
+categorical__CouncilArea_Melbourne,2281.822821098028
+categorical__CouncilArea_Melton,-0.0
+categorical__CouncilArea_Monash,82167.55986525465
+categorical__CouncilArea_Moonee Valley,96725.46240080833
+categorical__CouncilArea_Moorabool,0.0
+categorical__CouncilArea_Moreland,-3209.5149815237405
+categorical__CouncilArea_Nillumbik,-0.0
+categorical__CouncilArea_Port Phillip,-54267.37414165929
+categorical__CouncilArea_Stonnington,-9059.340337632198
+categorical__CouncilArea_Unavailable,-0.0
+categorical__CouncilArea_Unknown,31643.492953988058
+categorical__CouncilArea_Whitehorse,-0.0
+categorical__CouncilArea_Whittlesea,25620.26923657675
+categorical__CouncilArea_Wyndham,-6568.583239029014
+categorical__CouncilArea_Yarra,0.0
+categorical__CouncilArea_Yarra Ranges,0.0
+categorical__Regionname_Eastern Metropolitan,0.0
+categorical__Regionname_Eastern Victoria,-0.0
+categorical__Regionname_Northern Metropolitan,-176385.47057779355
+categorical__Regionname_Northern Victoria,96180.15283611881
+categorical__Regionname_South-Eastern Metropolitan,-151868.99624987826
+categorical__Regionname_Southern Metropolitan,89189.0480068916
+categorical__Regionname_Western Metropolitan,-330889.9826869949
+categorical__Regionname_Western Victoria,0.0
